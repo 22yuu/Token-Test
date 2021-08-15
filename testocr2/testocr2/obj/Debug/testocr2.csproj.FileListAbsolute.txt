@@ -1,0 +1,4 @@
+D:\dev\workspace1\c#\testocr2\testocr2\obj\Debug\testocr2.csprojAssemblyReference.cache
+D:\dev\workspace1\c#\testocr2\testocr2\obj\Debug\testocr2.Form1.resources
+D:\dev\workspace1\c#\testocr2\testocr2\obj\Debug\testocr2.Properties.Resources.resources
+D:\dev\workspace1\c#\testocr2\testocr2\obj\Debug\testocr2.csproj.GenerateResource.cache
